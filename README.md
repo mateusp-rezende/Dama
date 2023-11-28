@@ -1,2 +1,4 @@
 # Dama
-coisas de dama
+Treinando programação em Java Script
+
+
